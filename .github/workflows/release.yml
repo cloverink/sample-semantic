@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - beta
 
 jobs:
   release:
@@ -17,8 +18,15 @@ jobs:
         uses: cycjimmy/semantic-release-action@v2
         id: semantic
         with:
-          branch: master
+          branches: |
+            [
+              'master',
+              'beta'
+            ]
           extra_plugins: |
             @semantic-release/git
             @semantic-release/changelog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 
