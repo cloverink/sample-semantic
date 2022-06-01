@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/cloverink/sample-semantic/compare/v1.4.0...v1.5.0) (2022-06-01)
+
+
+### Features
+
+* new release with pr ([1a21aa3](https://github.com/cloverink/sample-semantic/commit/1a21aa3461fc879dd8889c4e6c559c9f07bff77c))
+
 # [1.4.0](https://github.com/cloverink/sample-semantic/compare/v1.3.0...v1.4.0) (2022-06-01)
 
 
