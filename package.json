@@ -1,0 +1,8 @@
+{
+  "name": "sample-semantic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://cloverink: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@github.com/cloverink/sample-semantic.git",
+  "author": "Aran(Tae) Chananar <aran.c@pomelofashion.com>",
+  "license": "MIT"
+}
