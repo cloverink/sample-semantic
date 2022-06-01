@@ -1,9 +1,8 @@
-name: Release
+name: Build
 
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+    branches: [master]
 
 jobs:
   release:
@@ -17,7 +16,10 @@ jobs:
         uses: cycjimmy/semantic-release-action@v2
         id: semantic
         with:
-          branche: master
+          branches: |
+            [
+              {name: 'feat/*', channel: 'beta', prerelease: true}
+            ]
           extra_plugins: |
             @semantic-release/git
             @semantic-release/changelog
