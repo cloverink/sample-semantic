@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/cloverink/sample-semantic/compare/v1.5.0...v1.6.0) (2022-06-01)
+
+
+### Features
+
+* wow ([c6435ea](https://github.com/cloverink/sample-semantic/commit/c6435ea6be17b01fba1625412a57d07319d27c8b))
+
 # [1.5.0](https://github.com/cloverink/sample-semantic/compare/v1.4.0...v1.5.0) (2022-06-01)
 
 
