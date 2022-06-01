@@ -20,8 +20,8 @@ jobs:
         with:
           branches: |
             [
-              'master',
-              'beta'
+              {name: 'master'}
+              {name: 'beta', channel: 'beta', prerelease: true}
             ]
           extra_plugins: |
             @semantic-release/git
