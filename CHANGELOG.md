@@ -1,11 +1,19 @@
-# [1.3.0](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0) (2022-06-01)
+# [1.4.0-beta.1](https://github.com/cloverink/sample-semantic/compare/v1.3.0...v1.4.0-beta.1) (2022-06-01)
 
+
+### Features
+
+* test more release ([f1e2626](https://github.com/cloverink/sample-semantic/commit/f1e26265fd05550b304b611d96b682cfcf4c3f14))
+
+# [1.3.0-beta.1](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0-beta.1) (2022-06-01)
+# [1.3.0](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0) (2022-06-01)
 
 ### Features
 
 * apply beta release ([9b15f05](https://github.com/cloverink/sample-semantic/commit/9b15f0577c479a1f60da43c3c8194b26096577a7))
 * hello ([9eb2149](https://github.com/cloverink/sample-semantic/commit/9eb2149bb8ce4f6ce4a262536e46887389c10ee6))
 * set master as default release ([d2debc0](https://github.com/cloverink/sample-semantic/commit/d2debc04ba39282c81a7f08f951ecfdfb2b8c224))
+* test more release ([f1e2626](https://github.com/cloverink/sample-semantic/commit/f1e26265fd05550b304b611d96b682cfcf4c3f14))
 
 # [1.2.0](https://github.com/cloverink/sample-semantic/compare/v1.1.0...v1.2.0) (2022-06-01)
 
