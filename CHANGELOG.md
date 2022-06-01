@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/cloverink/sample-semantic/compare/v1.6.0...v1.7.0) (2022-06-01)
+
+
+### Features
+
+* beta release is working ([dcbb812](https://github.com/cloverink/sample-semantic/commit/dcbb81226e3c3acf97326bd3f8c5fe6d9ec0b09f))
+
 # [1.6.0](https://github.com/cloverink/sample-semantic/compare/v1.5.0...v1.6.0) (2022-06-01)
 
 
