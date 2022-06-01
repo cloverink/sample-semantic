@@ -1,5 +1,6 @@
-# [1.3.0-beta.1](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0-beta.1) (2022-06-01)
 
+# [1.3.0-beta.1](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0-beta.1) (2022-06-01)
+# [1.3.0](https://github.com/cloverink/sample-semantic/compare/v1.2.0...v1.3.0) (2022-06-01)
 
 ### Features
 
