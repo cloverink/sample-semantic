@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - beta
 
 jobs:
   release:
@@ -17,7 +18,11 @@ jobs:
         uses: cycjimmy/semantic-release-action@v2
         id: semantic
         with:
-          branche: master
+          branches: |
+            [
+              'master',
+              {name: 'beta', channel: 'beta', prerelease: true}
+            ]
           extra_plugins: |
             @semantic-release/git
             @semantic-release/changelog
