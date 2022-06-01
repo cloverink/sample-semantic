@@ -20,7 +20,7 @@ jobs:
         with:
           branches: |
             [
-              {name: 'master'}
+              'master',
               {name: 'beta', channel: 'beta', prerelease: true}
             ]
           extra_plugins: |
