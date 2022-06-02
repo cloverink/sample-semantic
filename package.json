@@ -1,5 +1,5 @@
 {
-  "name": "sample-semantic",
+  "name": "@cloverink/sample-semantic",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
