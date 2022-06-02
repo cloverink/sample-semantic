@@ -1,0 +1,13 @@
+.github/
+.editorconfig
+.eslintignore
+.eslintrc
+.pre-commit-config.yaml
+.prettierrc
+.tool-versions
+test/
+coverage/
+Makefile
+commitlint.config.js
+release.config.js
+renovate.json
