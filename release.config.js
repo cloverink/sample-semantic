@@ -8,14 +8,14 @@ module.exports = {
     [
       "@semantic-release/npm",
       {
-        "npmPublish": false
+        "npmPublish": true
       }
     ],
     [
       "@semantic-release/git",
       {
         "assets": [
-          "CHANGELOG.md"
+          "docs/CHANGELOG.md",
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
