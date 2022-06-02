@@ -13,5 +13,8 @@
     "@semantic-release/github": "^8.0.4",
     "@semantic-release/release-notes-generator": "^10.0.3",
     "semantic-release": "^19.0.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
